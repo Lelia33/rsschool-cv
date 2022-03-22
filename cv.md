@@ -1,11 +1,11 @@
 # **OLGA VYHOUSKAJA**
----------------------------------------------------------------------------
+
 ## ***Junior Frontend Developer***
 ### Contact information:
 
-Phone: +37529-6970131
-E-mail: lelia33@mail.ru
-Discord: Lelia33
+##### Phone: +37529-6970131
+##### E-mail: lelia33@mail.ru
+##### Discord: Lelia33
 
 ### About myself
 I want to learn Front-End development in RSSchool. I want to get Knowledge and skills that will be enough for employment in a company.
